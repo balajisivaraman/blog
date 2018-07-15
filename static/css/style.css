@@ -104,6 +104,7 @@ nav.navigation  ul li a:hover {
 
 /* Footer */
 footer {
+  margin-top: 50px;
   height: 120px;
   text-align: center;
   background-color: #fafafa;
