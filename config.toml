@@ -1,3 +1,9 @@
 baseURL = "https://www.balajisivaraman.com/"
 languageCode = "en-us"
 title = "Balaji Sivaraman"
+
+# Enable Chroma Syntax Highlighting
+pygmentsOptions = "linenos=true"
+pygmentsStyle = "solarized-dark"
+pygmentsCodefencesGuessSyntax = true
+pygmentsCodeFences = true
