@@ -9,23 +9,31 @@
         <meta name="viewport" content="width=device-width; initial-scale=1.0">
         <link rel="shortcut icon" href="/favicon.ico">
         <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+        <!-- External Fonts from CDN -->
         <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+        <link href="https://fonts.googleapis.com/css?family=Signika:400,700" rel="stylesheet">
+        <link href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" rel="stylesheet" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+        <!-- Site CSS -->
         <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" />
     </head>
     <body>
         <div id="wrapper">
             <header id="header">
-                <h1>Balaji Sivaraman</h1>
+                <div class="site-title">
+                    <h1>Balaji Sivaraman</h1>
+                </div>
                 <nav class="navigation">
                     <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">Services</a></li>
-                        <li><a href="#">Blog</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/about">About</a></li>
+                        <li><a href="/talks">Talks</a></li>
+                        <li><a href="/archives">Archives</a></li>
+                        <li><a href="/tags">Tags</a></li>
+                        <li><a href="/categories">Categories</a></li>
                     </ul>
                 </nav>
+                <div class="clearfix"></div>
             </header>
             <div id="content" class="clearfix">
                 <h1>{{ .Title }}</h1>
