@@ -1,3 +1,4 @@
+/* Basic Setup and Font Configuration */
 html {
   font-size: 1em;
 }
@@ -33,3 +34,32 @@ h4 {font-size: 1.333em;}
 
 small, .font_small {font-size: 0.75em;}
 
+/* Links */
+a, a:visited {
+  color: #42A5F5;
+  text-decoration: inherit;
+}
+
+a:hover {
+  color: #1565C0;
+}
+
+/* Footer */
+footer {
+  height: 120px;
+  text-align: center;
+  background-color: #fafafa;
+  color: #7a7a7a;
+  font-weight: 300;
+  width: 100%;
+  border-top: thin solid #f3f3f3;
+}
+
+.social-icons {
+  font-size: 1.8em;
+}
+
+.social-icons a {
+  color: inherit;
+  text-decoration: inherit;
+}
