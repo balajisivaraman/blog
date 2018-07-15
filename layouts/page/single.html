@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Balaji Sivaraman</title>
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <meta name="viewport" content="width=device-width; initial-scale=1.0">
+        <link rel="shortcut icon" href="/favicon.ico">
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+        <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" />
+    </head>
+    <body>
+        <div id="wrapper">
+            <header id="header">
+                <h1>Balaji Sivaraman</h1>
+                <nav class="navigation">
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Services</a></li>
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </nav>
+            </header>
+            <div id="content" class="clearfix">
+                <h1>{{ .Title }}</h1>
+                <article class="post-content">
+                    {{ .Content }}
+                </article>
+            </div>
+
+            <footer>
+                <p>Some copyright and legal notices gere. May be use the © symbol a bit.</p>
+            </footer>
+        </div>
+    </body>
+</html>
