@@ -151,6 +151,10 @@ nav.navigation  ul li a:hover {
 }
 
 /* Body */
+article {
+  margin: auto 10px;
+}
+
 blockquote {
   margin-left: 0;
   padding-left: 30px;
