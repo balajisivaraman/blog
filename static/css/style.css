@@ -107,6 +107,33 @@ nav.navigation  ul li a:hover {
   text-align: center;
 }
 
+.post-header h1 {
+  margin-bottom: 10px;
+}
+
+.post-header > .post-meta {
+  font-size: 0.8em;
+  color: #757575;
+}
+
+.post-meta > .post-categories {
+  display: inline;
+}
+
+.post-categories > a::before,
+.post-meta > .word-count::before,
+.post-meta > .reading-time::before {
+  content: "\B7";
+}
+
+.post-categories > a {
+  color: inherit;
+}
+
+.post-categories > a:hover {
+  color: #42A5F5;
+}
+
 /* Footer */
 footer {
   margin-top: 50px;
