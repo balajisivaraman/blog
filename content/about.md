@@ -10,7 +10,7 @@ mathjax: false
 ---
 
 My name is Balaji Sivaraman, and [I'm a
-programmer](https::github.com/balajisivaraman). I work as an
+programmer](https://github.com/balajisivaraman/). I work as an
 application developer for ThoughtWorks in Chennai. My day-to-day work
 mostly involves writing microservices using Java and Spring, with a
 little bit of Ruby on Rails thrown in for good measure. I mostly spend
