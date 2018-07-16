@@ -16,7 +16,7 @@ p {margin-bottom: 1.3em;}
 
 h1, h2, h3, h4 {
   margin: 1.414em 0 0.5em;
-  font-family: 'Roboto Slab', Georgia, serif;
+  font-family: Bitter, Georgia, serif;
   font-weight: inherit;
   line-height: 1.2;
 }
@@ -57,22 +57,27 @@ a:hover {
 }
 
 /* Page Header */
+header {
+  height: 60px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #BDBDBD;
+}
+
 #header h1 {
-  font-family: Signika, arial, helvetica, sans-serif;
-  font-size: 2em;
-  font-variant: small-caps;
+  font-family: Bitter, arial, helvetica, sans-serif;
+  font-size: 2.2em;
 }
 
 #header .site-title {
-  width: 40%;
+  width: 50%;
   float: left;
 }
 
 nav.navigation {
-  width: 60%;
+  width: 50%;
   display: block;
   font-size: 0.8em;
-  margin-bottom: 10px;
   float: right;
 }
 
