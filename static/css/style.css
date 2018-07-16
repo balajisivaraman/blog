@@ -150,6 +150,13 @@ nav.navigation  ul li a:hover {
   color: #42A5F5;
 }
 
+/* Body */
+blockquote {
+  margin-left: 0;
+  padding-left: 30px;
+  border-left: 6px solid #9E9E9E;
+}
+
 /* Footer */
 footer {
   margin-top: 50px;
