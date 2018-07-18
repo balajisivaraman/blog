@@ -14,6 +14,7 @@
         <link href="https://fonts.googleapis.com/css?family=Bitter:400,400i,700" rel="stylesheet">
         <link href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" rel="stylesheet" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
         <!-- Site CSS -->
+        <link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.min.css">
         <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" />
     </head>
     <body>
@@ -33,28 +34,35 @@
             </nav>
             <div class="clearfix"></div>
         </header>
-        <div id="wrapper">
-            <div id="content" class="clearfix">
-                <div class="post-header">
-                    <h1>{{ .Title }}</h1>
-                    <div class="post-meta">
-                        <span class="publish-date"> {{ .PublishDate.Format "January 2, 2006" }} </span>
-                        <div class="post-categories">
-                            {{ range $value := .Params.categories }}
-                            <a href="/categories/{{ $value }}"> {{ $value }} </a>
-                            {{ end }}
+        <div class="container">
+            <div id="wrapper" class="row">
+                <div id="left-content" class="col-md-9">
+                    <div class="post-header">
+                        <h1>{{ .Title }}</h1>
+                        <div class="post-meta">
+                            <span class="publish-date"> {{ .PublishDate.Format "January 2, 2006" }} </span>
+                            <div class="post-categories">
+                                {{ range $value := .Params.categories }}
+                                <a href="/categories/{{ $value }}"> {{ $value }} </a>
+                                {{ end }}
+                            </div>
+                            <span class="word-count">
+                                {{ .WordCount }} words
+                            </span>
+                            <span class="reading-time">
+                                {{ .ReadingTime }} min read
+                            </span>
                         </div>
-                        <span class="word-count">
-                            {{ .WordCount }} words
-                        </span>
-                        <span class="reading-time">
-                            {{ .ReadingTime }} min read
-                        </span>
+                    </div>
+                    <article class="post-content">
+                        {{ .Content }}
+                    </article>
+                </div>
+                <div class="col-md-3">
+                    <div id="about">
+                        Balaji Sivaraman.
                     </div>
                 </div>
-                <article class="post-content">
-                    {{ .Content }}
-                </article>
             </div>
         </div>
         <footer>

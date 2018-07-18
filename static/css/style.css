@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  background-color: white;
+  background-color: #E0E0E0;
   font-size: 1em;
   font-family: Lato, helvetica, sans-serif;
   font-weight: 400;
@@ -37,7 +37,6 @@ small, .font_small {font-size: 0.75em;}
 
 /* Wrapper For the Overall Page */
 #wrapper {
-  background: #E0E0E0;
   padding: 1.5em 1em 2.5em;
 }
 
@@ -47,11 +46,9 @@ small, .font_small {font-size: 0.75em;}
     display: table;
 }
 
-#content {
+#left-content {
   background: #FFFFFF;
   padding: 25px;
-  max-width: 850px;
-  margin: 0 auto;
 }
 
 /* Links */
@@ -66,7 +63,8 @@ a:hover {
 
 /* Page Header */
 header {
-  margin-top: 10px;
+  background: #FFFFFF;
+  padding-top: 10px;
   border-bottom: 1px solid #BDBDBD;
 }
 
@@ -168,9 +166,14 @@ blockquote {
   border-left: 6px solid #9E9E9E;
 }
 
+/* Right Sidebar */
+#about {
+  background: white;
+}
+
 /* Footer */
 footer {
-  padding-top: 15\px;
+  padding-top: 15px;
   height: 120px;
   text-align: center;
   background-color: #212121;
