@@ -16,13 +16,20 @@
         <!-- Site CSS -->
         <link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.min.css">
         <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" />
+        <!-- Site JS -->
+        <script src="/scripts/script.js"></script>
     </head>
     <body>
         <header id="header">
             <!-- <div class="site-title">
                  <h1>Balaji Sivaraman</h1>
                  </div> -->
-            <nav class="navigation">
+            <nav id="nav-bar" class="navigation">
+                <div id="hamburger">
+                    <a href="javascript:void(0);" class="icon" onclick="topNavControl()">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
                 <ul>
                     <li><a href="/">Home</a></li>
                     <li><a href="/about">About</a></li>
