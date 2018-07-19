@@ -49,6 +49,7 @@ small, .font_small {font-size: 0.75em;}
 #left-content {
   background: #FFFFFF;
   padding: 25px;
+  margin-bottom: 20px;
 }
 
 /* Links */
@@ -160,6 +161,24 @@ blockquote {
 /* Right Sidebar */
 #about {
   background: white;
+  padding: 15px;
+  font-size: 0.9em;
+  line-height: 1.5em;
+  text-align: center;
+}
+
+#about > h4 {
+  margin: 0 0 10px;
+  padding-bottom: 5px;
+  text-align: left;
+  border-bottom: 1px solid #BDBDBD;
+}
+
+img.avatar {
+  display: block;
+  border-radius: 50%;
+  margin: 0 auto;
+  padding-bottom: 5px;
 }
 
 /* Footer */
