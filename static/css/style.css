@@ -46,7 +46,7 @@ small, .font_small {font-size: 0.75em;}
     display: table;
 }
 
-#left-content {
+.content {
   background: #FFFFFF;
   padding: 25px;
   margin-bottom: 20px;

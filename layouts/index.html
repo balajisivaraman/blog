@@ -3,9 +3,10 @@
 <div class="container">
     <div id="wrapper" class="row">
         <div id="left-content" class="col-md-9">
+            {{ range first 5 (where (where .Site.Pages.ByDate.Reverse "Section" "post") ".Title" "!=" "Posts") }}
             <div class="content">
                 <div class="post-header">
-                    <h1>{{ .Title }}</h1>
+                    <a href="{{ .RelPermalink }}"><h1>{{ .Title }}</h1></a>
                     <div class="post-meta">
                         <span class="publish-date"> {{ .PublishDate.Format "January 2, 2006" }} </span>
                         <div class="post-categories">
@@ -22,9 +23,11 @@
                     </div>
                 </div>
                 <article class="post-content">
-                    {{ .Content }}
+                    <p> {{ .Summary }} </p>
+                    <a href="{{ .RelPermalink }}">Read More…</a>
                 </article>
             </div>
+            {{ end }}
         </div>
         {{ partial "right-sidebar.html" . }}
     </div>

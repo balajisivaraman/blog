@@ -3,12 +3,14 @@
 <div class="container">
     <div id="wrapper" class="row">
         <div id="left-content" class="col-md-9">
-            <div class="post-header">
-                <h2>{{ .Title }} </h2>
+            <div class="content">
+                <div class="post-header">
+                    <h2>{{ .Title }} </h2>
+                </div>
+                <article class="post-content">
+                    {{ .Content }}
+                </article>
             </div>
-            <article class="post-content">
-                {{ .Content }}
-            </article>
         </div>
         {{ partial "right-sidebar.html" . }}
     </div>
