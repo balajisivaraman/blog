@@ -7,7 +7,7 @@
                 <h2>{{ .Title }} </h2>
             </div>
             <article class="post-content">
-                <div id="archives">
+                <div class="archives">
                 {{ range .Site.Pages.GroupByDate "2006" }}
                 {{ if gt (len (where .Pages "Type" "post")) 0 }}
                 <h3>
