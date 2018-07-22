@@ -2,7 +2,7 @@ baseURL = "https://www.balajisivaraman.com/"
 languageCode = "en-us"
 title = "Balaji Sivaraman"
 
-[syntax] # Enable Chroma Syntax Highlighting
+# Enable Chroma Syntax Highlighting
 pygmentsOptions = "linenos=true"
 pygmentsStyle = "solarized-light"
 pygmentsCodefencesGuessSyntax = true
@@ -12,3 +12,7 @@ preserveTaxonomyNames = true
 
 [permalinks]
 post = "/:year/:month/:day/:slug"
+
+[params]
+author = "Balaji Sivaraman"
+description = "I blog mostly about programming, specifically in statically typed languages."
