@@ -192,7 +192,7 @@ blockquote {
 }
 
 /* Right Sidebar */
-#about {
+#right-content > div {
   background: white;
   padding: 15px;
   font-size: 0.9em;
@@ -200,11 +200,20 @@ blockquote {
   text-align: center;
 }
 
-#about > h4 {
+#right-content > div:not(:first-child) {
+  margin-top: 1.5em;
+  text-align: left;
+}
+
+#right-content > div > h4 {
   margin: 0 0 10px;
   padding-bottom: 5px;
   text-align: left;
   border-bottom: 1px solid #BDBDBD;
+}
+
+#right-content > div > ul {
+  padding-left: 2em;
 }
 
 img.avatar {

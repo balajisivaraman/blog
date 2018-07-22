@@ -74,6 +74,14 @@
                         thoughts mostly on statically typed languages
                         such as Scala and Rust.
                     </div>
+                    <div id="categories">
+                        <h4>Categories</h4>
+                        <ul>
+                            {{ range $.Site.Taxonomies.categories.ByCount }}
+                            <li><a href="/categories/{{ .Term | urlize  }}">{{ .Term | humanize }}</a> ({{ .Count }})</li>
+                            {{ end }}
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
