@@ -11,4 +11,6 @@ push:
 	git push origin master
 
 build:
+	cp keybase.txt public/
+	cp balajisivaraman.asc public/
 	hugo
