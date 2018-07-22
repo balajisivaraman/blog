@@ -2,10 +2,13 @@ baseURL = "https://www.balajisivaraman.com/"
 languageCode = "en-us"
 title = "Balaji Sivaraman"
 
-# Enable Chroma Syntax Highlighting
+[syntax] # Enable Chroma Syntax Highlighting
 pygmentsOptions = "linenos=true"
 pygmentsStyle = "solarized-light"
 pygmentsCodefencesGuessSyntax = true
 pygmentsCodeFences = true
 
 preserveTaxonomyNames = true
+
+[permalinks]
+post = "/:year/:month/:day/:slug"
