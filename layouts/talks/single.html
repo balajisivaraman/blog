@@ -1,0 +1,39 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+<div class="container">
+    <div id="wrapper" class="row">
+        <div id="left-content" class="col-md-9">
+            <div class="content">
+                <div class="post-header">
+                    <h2>{{ .Title }}</h2>
+                </div>
+                {{ range $page := (where (where .Site.Pages.ByDate.Reverse "Section" "talk")  ".Title" "!=" "Talks") }}
+                <div class="talk-header">
+                    <h3>{{ .Title }} </h3>
+                    <div class="talk-meta">
+                        <span class="date"> {{ .PublishDate.Format "January 2, 2006" }} </span> |
+                        {{ if .Params.video }}
+                        <span class="video"><a href="{{ .Params.video }}">Video</a> </span> |
+                        {{ end }}
+                        {{ if .Params.slides_source }}
+                        <span class="slides-source"><a href="{{ .Params.slides_source }}">Slides Source</a> </span> |
+                        {{ end }}
+                        {{ if .Params.slides }}
+                        <span class="slides"> <a href="{{ .Params.slides }}">Slides</a> </span> |
+                        {{ end }}
+                        {{ if .Params.source }}
+                        <span class="source"> <a href="{{ .Params.source }}">Source</a> </span> |
+                        {{ end }}
+                        <span class="location"> {{ .Params.location }} </span>
+                    </div>
+                </div>
+                <article class="post-content">
+                    {{ .Content }}
+                </article>
+                {{ end }}
+            </div>
+        </div>
+        {{ partial "right-sidebar.html" . }}
+    </div>
+</div>
+{{ partial "footer.html" . }}

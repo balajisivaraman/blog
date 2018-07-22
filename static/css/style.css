@@ -260,6 +260,15 @@ img.avatar {
   padding-bottom: 5px;
 }
 
+/* Talks */
+.talk-header {
+  margin-left: 10px;
+}
+.talk-header > .talk-meta {
+  font-size: 0.8em;
+  color: #757575;
+}
+
 /* Footer */
 footer {
   padding-top: 15px;
