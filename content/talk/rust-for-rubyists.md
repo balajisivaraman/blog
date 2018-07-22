@@ -4,7 +4,7 @@ date: 2018-03-24
 type: talk
 video:
 slides_source: https://github.com/balajisivaraman/rust-in-peace
-slides: /talks/rust-in-peace-chennai.pdf
+slides: /talks/rust-for-rubyists.pdf
 source:
 location: Chennai, IN
 ---
