@@ -4,21 +4,7 @@
     <div id="wrapper" class="row">
         <div id="left-content" class="col-md-9">
             <div class="post-header">
-                <h1>{{ .Title }}</h1>
-                <div class="post-meta">
-                    <span class="publish-date"> {{ .PublishDate.Format "January 2, 2006" }} </span>
-                    <div class="post-categories">
-                        {{ range $value := .Params.categories }}
-                        <a href="/categories/{{ $value }}"> {{ $value }} </a>
-                        {{ end }}
-                    </div>
-                    <span class="word-count">
-                        {{ .WordCount }} words
-                    </span>
-                    <span class="reading-time">
-                        {{ .ReadingTime }} min read
-                    </span>
-                </div>
+                <h2>{{ .Title }} </h2>
             </div>
             <article class="post-content">
                 {{ .Content }}

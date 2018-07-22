@@ -157,6 +157,12 @@ nav.navigation  ul li a:hover {
   margin-bottom: 10px;
 }
 
+.post-header h2 {
+  margin: auto 10px;
+  text-align: left;
+  border-bottom: 1px solid #BDBDBD;
+}
+
 .post-header > .post-meta {
   font-size: 0.8em;
   color: #757575;
