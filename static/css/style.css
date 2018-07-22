@@ -197,6 +197,37 @@ blockquote {
   border-left: 6px solid #9E9E9E;
 }
 
+#archives > div {
+  display: inline-block
+}
+
+#archives > .publish-date {
+  padding-left: 1em;
+  width: 25%;
+}
+
+@media only screen and (max-width: 767px) {
+  #archives > .publish-date {
+    padding-left: 1em;
+    width: 100%;
+  }
+
+  #archives > .post-title {
+    padding-left: 1em;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1200px) {
+  #archives > .publish-date {
+    padding-left: 1em;
+    width: 30%;
+  }
+
+  #archives > .post-title {
+    padding-left: 1em;
+  }
+}
+
 /* Right Sidebar */
 #right-content > div {
   background: white;
