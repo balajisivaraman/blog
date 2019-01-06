@@ -18,4 +18,5 @@ author = "Balaji Sivaraman"
 description = "I blog mostly about programming, specifically in statically typed languages."
 bio = "Hi, I'm Balaji Sivaraman, a programmer at ThoughtWorks. On these pages, you will find my thoughts on programming, mostly in statically typed languages such as Scala and Rust."
 include_talks = true
-enable_comments = false
+disqusShortname = "https-www-balajisivaraman-com"
+enable_comments = true
