@@ -54,12 +54,12 @@ small, .font_small {font-size: 0.75em;}
 
 /* Links */
 a, a:visited {
-  color: #42A5F5;
+  color: #1565C0;
   text-decoration: inherit;
 }
 
 a:hover {
-  color: #1565C0;
+  color: #42A5F5;
 }
 
 /* Page Header */
