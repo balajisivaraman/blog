@@ -1,0 +1,20 @@
++++
+title = "TinTin Movie Trilogy - Bring it On!"
+date = "2007-05-16"
+categories = [
+  "Cinema: English"
+]
+slug = "tintin-movie-trilogy-bring-it-on"
++++
+
+The announcement of a TinTin trilogy in the works has left me drooling with anticipation. The announcement came a few months back from head of Herge Studios head, Nick Rodwell but the news that [filtered](http://www.mg.co.za/articlepage.aspx?area=/breaking_news/breaking_news__international_news/&articleid=308368) in yesterday that two of the best directors in Hollywood in Steven Spielberg and Peter Jackson will be co-producing the trilogy and will be at the helm for two of the three has left me elated and to be honest, a bit confused (for lack of a better word).
+
+The first time I heard the announcement, I was worried really because the faces of TinTin, Snowy, Captain Haddock, Professor Calculus and especially the Simpson brothers are so well etched my mind that it will be difficult for me (and most TinTin fans) to digest any actor, however good he may be, performing these roles. But those fears were washed away with news that TinTin will be a computer animated movie and one of the best at that. And Spielberg rightly said that shooting the movie in live-action format would not honour the look of the characters that Herge created. And Jackson has gone one better and said that the characters will look photo-realistic rather than cartoonish which makes it all the more better as had they made it cartoonish it would have been like watching a cartoon rather than an animated movie.
+
+The news about animation is what left me a bit confused, though I am sure it will go away once a few trailers and videos start to come about. The confusion arises from the fact that even though both Jackson and Spielberg are the best at what they do and have given us classics like LOTR, Schindler’s List, Saving Private Ryan and so on, neither of them to my knowledge has ever directed an animated movie and I don't want that fact to stick out like a sore thumb once the movie eventually does hit the screens.
+
+I remember seeing a bunch of TinTin cartoons on Cartoon Network a long time back and though they were just moving images from the book, they worked really well for me. And the major reason for that was the selection of the voice actors. I don’t remember – nor do I know – any of the actors from those roles but I do remember appreciating how much they fit the roles of the main characters, especially TinTin and Captain Haddock. I have no idea who they are going to call for the trilogy but I feel it would be great if they could rope in the actors from these cartoons.
+
+I cannot wait for these movies to hit the theaters although the initial work has not even begun. The truth is I began my foray into the world of reading with TinTin. I had read a few Enid Blyton books but TinTin (thanks to my mom who introduced me to him) is what captured my imagination when I was about 8 to 10. I read the whole series and re-read and read them again and again and it never got boring. Even today, sometimes I find myself going to the library, picking one of my favourites and sifting through them bringing back some old memories. It was one of my favourite comic books and still remains to this day. The writing is wonderfully witty and the book tends to be funny even in some real tension scenes. Captain Haddock who is one of my favourite characters has all the best lines as his wonderfully written character is brought to life through some witty dialogue and swearing that not only show his aggressive nature but also his kind and caring heart. Some of my personal favourites include Destination Moon and its sequel Explorers of the Moon (a book which led me to take up the career path of an astronaut which I need not say died out quickly) and The Seven Crystal Balls and its sequel Prisoners of the Sun, though the whole lot of them are still some of the best comics out there.
+
+So is anybody else excited at this announcement and when the movie does hit the theaters it is going to be “**Blistering Barnacles**” and “**Thundering Typhoons**”.

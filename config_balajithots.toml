@@ -1,6 +1,6 @@
-baseURL = "https://www.balajisivaraman.com/"
+baseURL = "https://www.balajithots.com/"
 languageCode = "en-us"
-title = "Balaji Sivaraman"
+title = "Lost in Tranquility"
 
 # Enable Chroma Syntax Highlighting
 pygmentsOptions = "linenos=true"
@@ -16,3 +16,7 @@ post = "/:year/:month/:day/:slug"
 [params]
 author = "Balaji Sivaraman"
 description = "I blog mostly about programming, specifically in statically typed languages."
+bio = "Programmer - Cinephile - Bookworm - Sports-junkie - Gamer"
+include_talks = false
+disqusShortname = "http-blog-balajisivaraman-com"
+enable_comments = true

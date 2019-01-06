@@ -1,0 +1,16 @@
++++
+title = "Couple of impressive TV series"
+date = "2008-01-02"
+categories = [
+  "TV Shows"
+]
+slug = "couple-of-impressive-tv-series"
++++
+
+First off, the truth; I have never actually sat down in front of the TV and watched a series that "I" actually liked. My favorite TV show so far is the Friends and I became a fan of that because my sister was a big fan of that. Other than that I have occasionally sat down and watched Jag, X-Files, Everybody Loves Raymond and again all of those have been series that my sister had been watching for quite some time. But very recently I sat down and decided to give a few shows a try of my own and from then on have been very impressed by two of them.
+
+The first one and the one that has me riveted each time is House. The series is into its 3rd season here (4th in the US) and I started watching it only from about the end of the second season. To be honest, I have never watched a medical drama before. The closest I ever came was something known as Medical Investigations or somesuch in the Discovery Channel. The episode that actually got me terrifically interested was House vs God. I imagined it as being dark and serious but it turned out to be a mixture of everything including comedy which I did not expect to find. Hugh Laurie was not uncommon to me, I had heard about him and seen him in Stuart Little but here he has just lapped it up so much that I cannot imagine anyone else as House especially his comedy timing, dialogue delivery and body language are spot on. The supporting cast does its job pretty well and this is one show I hope goes till the 10th season like Friends. I am actually going to buy the 1st and 2nd season DVDs sometime in the near future since I have not watched them yet.
+
+And the second one is Numbers. I am a math geek, I love math and if it hadn’t been for my even greater interest in Computer Science, my future would have definitely been related to math. The first time I saw an ad for Numbers on TV, I told myself “I have got to check this out!” but as always I never did. I actually only started watching the show when I was casually flicking channels and getting bored with nothing else to watch. It was about the 19th episode of season 1 and had something to do with using math to calculate human efficiency and I digged it. From then on I have watched the show regularly and it actually just completed its 3rd season here. Though I did miss much of the first season and a good number of episodes in the third, the actual math used to solve each case is highly intriguing. Of course, the show does have low quality production values evident from the highly graphical explosions but still the main cast is wonderful and does a great job especially Rob Morrow as Don Eppes, David Krumholtz as his brother Charlie and Judd Hirsch as their father, Alan. Again this is one show I hope does go a long way because the way math is used in each episode is pretty brilliant.
+
+Apart from these I actually did start watching Top Chef but that is only because of the awesome dishes that are put on display in that show. So, really the only two series that I have actually become interested for myself are House and Numbers. Any of you interested in these or found a few shows that have captured your mind, post ‘em here.

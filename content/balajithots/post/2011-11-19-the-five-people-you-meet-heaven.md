@@ -1,0 +1,22 @@
++++
+title = "The Five People You Meet Heaven"
+date = "2011-11-19"
+categories = [
+  "Books"
+]
+slug = "the-five-people-you-meet-heaven"
++++
+
+**The Five People You Meet Heaven** is one of those books I’d been meaning to read for an eternity. I first came upon it when browsing Balaji’s blog a long time ago and was intrigued by the synopsis. I even rented it once but never was able to complete it. Determined to fix the oversight, I picked it up a few weeks ago and breezed through it. Beautifully written, it is filled with heartfelt emotions and paced perfectly. Essentially, it is one of the best books I’ve read in a long time and will most probably find a place for itself in my all-time favorites list.
+
+**The Five People You Meet Heaven** tells the story of Joe, a maintenance worker at Ruby Pier amusement park. As the book opens, we are introduced to him as he goes about his daily routines with little knowledge that he is into his last few hours on Earth. Mitch Albom demonstrates his originality in these sequences itself as he slowly keeps the clock ticking with each of the actions Joe completes. Following his death in a fateful accident, Joe finds himself in heaven and learns that he is to meet five people whose lives he has had a profound impact on. As they explain just how it is they are connected, Joe is taught valuable lessons about his existence.
+
+When I first read the synopsis, my thought process was fairly predictable. I expected the five people to be comprised of the usual collection of friends, parents, spouse, or any number of other relationships that we form in life. Turns out I couldn’t have made a dumber guess. The actual five people are an eclectic, unpredictable lot. I was able to _accidentally_ guess only one person from the list and that too only because it was fairly obvious. At face value, some of them feel like random individuals, but as they explain their unique relationship with Joe and teach him their lesson, we understand why they were chosen.
+
+These meeting and lesson chapters are bookended by chapters charting Joe’s progress through life. While the key events in his life have suitably larger chapters devoted to them, Mitch Albom’s singularity lies in the manner in which he presents the slices of Joe’s everyday life. Instead of going with the usual, mundane style, Albom uses Joe’s birthdays to serve as a first-hand look at his life and the relationships he forms and breaks along the way. Be it adolescence where it brings out his father’s disciplinarian and gruff attitude in contrast to his mother’s warm, caring nature or mid-twenties where he is lost in the midst of the Vietnam War or middle-age where he shares a beautiful partnership with his wife or the debility of old-age where he is lost in his loneliness, Albom’s skills as a writer come to the fore in these chapters. He is able to provide an unbelievable amount to depth to not only Joe but also each of the people he meets along the way.
+
+Besides the strength of the characters and writing, **The Five People You Meet Heaven** is also exquisitely paced. Though they themselves are rather unique, the lessons taught by the first two people are more straightforward and don’t have a large impact on the readers. Albom ups the ante with the third and fourth persons who provide more meaningful lessons to Joe; and as readers, we also understand certain important aspects of life from them. But he saves the best for the last. Since no accidental guessing is possible, the actual identity of the fifth person comes as quite a revelation. Right from the beginning of the final chapter, I was more or less in a shell-shocked state. It was only after the book ended did I come out of my daze.
+
+Albom’s writing throughout the book is brilliant, and by the time we reach the climax, it feels like we’ve lived Joe’s entire life for him and there is a certain level of attachment that forms between us and the protagonist. As a result of this, the book’s final lesson and the way it eventually ends offer a catharsis that few books can match.
+
+**The Five People You Meet Heaven** is one of those rare books that cannot be pigeonholed into any genre. Though Joe’s story is rather unique, the final message is something that everybody can learn from: _Every life, no matter how small or large it may be, matters!_ Because of that and the way it is delivered, Albom’s book, like Joe’s life, will have a deep, profound impact on all of its readers.

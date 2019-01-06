@@ -2,9 +2,7 @@
     <div id="about">
         <h4>About</h4>
         <img src="/images/balaji.jpg" alt="Avatar" class="avatar" />
-        Hi, I'm Balaji Sivaraman, a programmer at ThoughtWorks. On
-        these pages, you will find my thoughts on programming, mostly
-        in statically typed languages such as Scala and Rust.
+        {{ $.Site.Params.bio }}
     </div>
     <div id="social-icons">
         <h4>Follow Me</h4>
@@ -14,7 +12,7 @@
         <h4>Categories</h4>
         <ul>
             {{ range $.Site.Taxonomies.categories.ByCount }}
-            <li><a href="/categories/{{ .Term | urlize  }}">{{ .Term | humanize }}</a> ({{ .Count }})</li>
+            <li><a href="/categories/{{ .Term | urlize  }}">{{ .Term }}</a> ({{ .Count }})</li>
             {{ end }}
         </ul>
     </div>

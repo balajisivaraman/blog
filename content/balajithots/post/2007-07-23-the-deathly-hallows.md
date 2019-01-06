@@ -1,0 +1,18 @@
++++
+title = "The Deathly Hallows"
+date = "2007-07-23"
+categories = [
+  "Books"
+]
+slug = "the-deathly-hallows"
++++
+
+The last time we met our favorite young wizard, he was left all alone after the death of Dumbledore with no one but two other 17-year olds with the impossible task of seeking out Voldemort’s remaining Horcruxes, destroying them and then seeking out The Dark Lord himself and finishing him and hopefully making out of it alive. As if that wasn’t enough, Dumbledore was killed by none other than Snape in whom he trusted and Rowling unimaginably made Severus Snape the most important character in the Deathly Hallows after probably the trio of Harry, Ron and Hermione and Voldemort. So, Rowling has numerous questions to answer and to finish off the series in a fitting way so as to leave all its fans satisfied. So, does she? In my opinion, The Deathly Hallows is possibly my favorite in the series as a whole and yes, the conclusion is superb and Rowling leaves absolutely no stone unturned.
+
+The book begins before Harry’s 17th birthday when we know his protection against Voldemort given by his mother breaks and the Order of the Phoenix realizing this are trying to move Harry to a safer place. Saying absolutely what happens anymore in the book would be spoiling it for fans but suffice it to say the story twists and turns until the climax.
+
+Ron and Hermione of course accompany Harry on the journey to secure the remaining Horcruxes and destroy them. There are numerous verbal fights, emotional sequences and then reunions as Rowling spins one heck of a magical yarn. She leads us on a nostalgic trip where everything from the Snitch Harry first caught to Dumbledore’s light-snatcher to Sirius’s mirror make a return and it almost seems as if she does not want to forget many of these amazing characters and sequences herself and in turn we do not want to forget this series that has captivated our hearts for many years.
+
+However, after reading about a third of the book I found myself utterly confused. Here, she was with a plate full of questions to answer yet Rowling seemed to be happy to posing more and more questions and I must accept I was slightly nervous that the ending might not tie up all the loose ends or might be unsatisfying. But all my fears were washed away in the amazing last third of the book in which there are numerous goosebump sequences, sequences and dialogues where you will sit tight in your chair and every hair on your body will be pointing skywards. Rowling yet again has proven that she is truly a mistress of story-telling and while some of these sequences may seem too convenient as things fall firmly into place, there is no doubt about the emotions we feel when we read them.
+
+So, in the end everything about The Deathly Hallows will leave you satisfied from its amazing action set-pieces to the complexity of the emotions underneath all the action and of course a finale that is befitting to the series as a whole. In the opening tribute, Rowling thanks all her fans for sticking with Harry till the end. And that is what exactly every fan has done, their love for Harry and his friends has only grown warmer and stronger with each of his adventures and in this final adventure Rowling makes sure that even as we – along with her – say one final wet-eyed (in my case) and heart-warming goodbye to the series, it will remain etched in our hearts and minds for all eternity and there in lies the true magic of Harry Potter and Rowling’s writing and not in the spells and enchantments that appear inside the book.
