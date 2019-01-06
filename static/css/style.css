@@ -13,11 +13,11 @@ body {
   margin: 0;
 }
 
-p {margin-bottom: 1.3em;}
+p {margin-bottom: 1.4em;}
 
 h1, h2, h3, h4 {
   margin: 1.414em 0 0.5em;
-  font-family: Bitter, Georgia, serif;
+  font-family: 'Work Sans', helvetica, sans-serif;
   font-weight: inherit;
   line-height: 1.2;
 }
@@ -194,6 +194,8 @@ nav.navigation  ul li a:hover {
 /* Body */
 article {
   margin: auto 10px;
+  font-family: Bitter, georgia, serif;
+  line-height: 1.7em;
 }
 
 blockquote {

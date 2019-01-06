@@ -18,7 +18,7 @@ As part of my enthusiasm to spread the gospel of Rust Lang at my place of work,
 I began an initiative called 100 Days of Rust in the ThoughtWorks Chennai office
 today.
 
-#### What is the 100-day project?
+### What is the 100-day project?
 
 Well, I'm glad you asked. It usually works like this:
 
@@ -30,7 +30,7 @@ The intention is to do something quick, creative, and without fear, which will
 lead to constant improvement. And hopefully at the end of 100 days, you have
 some concrete learning to show for it as a result.
 
-#### What am I doing?
+### What am I doing?
 
 As part of this initiative, I'm going to be using this blog to track my own
 progress with spending 100 days with Rust. I hope this will serve as a diary of
