@@ -25,7 +25,7 @@ build_thots:
 	hugo -c content/balajithots/ --config config_balajithots.toml -d public/balajithots/
 
 deploy_main: clean_main build_main
-	rsync -avz --delete --rsync-path="sudo rsync" public/balajisivaraman/ deploy@ssh.balajisivaraman.com:/var/www/balajisivaraman.com/
+	rsync -avz --delete public/balajisivaraman/ balaji@balajisivaraman.com:/home/user-data/www/default/
 
 deploy_thots: clean_thots build_thots
 	rsync -avz --delete --rsync-path="sudo rsync" public/balajithots/ deploy@ssh.balajisivaraman.com:/var/www/balajithots.com/
