@@ -4,15 +4,15 @@
     <div id="wrapper" class="row">
         <div id="left-content" class="col-md-9">
             <div class="content">
-                <div class="post-header">
+              <div class="post-header">
+                    {{ range $value := .Params.categories }}
+                    <div class="post-categories">
+                        <a href="/categories/{{ $value | urlize }}"> {{ $value }} </a>
+                    </div>
+                    {{ end }}
                     <h1>{{ .Title }}</h1>
                     <div class="post-meta">
                         <span class="publish-date"> {{ .PublishDate.Format "January 2, 2006" }} </span>
-                        <div class="post-categories">
-                            {{ range $value := .Params.categories }}
-                            <a href="/categories/{{ $value }}"> {{ $value }} </a>
-                            {{ end }}
-                        </div>
                         <span class="word-count">
                             {{ .WordCount }} words
                         </span>

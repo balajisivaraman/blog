@@ -1,8 +1,7 @@
-function topNavControl() {
-    var x = document.getElementById("nav-bar");
-    if (x.className === "navigation") {
-        x.className += " responsive";
-    } else {
-        x.className = "navigation";
-    }
+function openNav() {
+  document.getElementById("nav-bar").style.width = "100%";
+}
+
+function closeNav() {
+  document.getElementById("nav-bar").style.width = "0";
 }

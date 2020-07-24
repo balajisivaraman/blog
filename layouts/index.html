@@ -9,11 +9,6 @@
                     <a href="{{ .RelPermalink }}"><h1>{{ .Title }}</h1></a>
                     <div class="post-meta">
                         <span class="publish-date"> {{ .PublishDate.Format "January 2, 2006" }} </span>
-                        <div class="post-categories">
-                            {{ range $value := .Params.categories }}
-                            <a href="/categories/{{ $value }}"> {{ $value }} </a>
-                            {{ end }}
-                        </div>
                         <span class="word-count">
                             {{ .WordCount }} words
                         </span>
@@ -24,7 +19,7 @@
                 </div>
                 <article class="post-content">
                     <p> {{ .Summary }} </p>
-                    <a href="{{ .RelPermalink }}">Read More…</a>
+                    <a class="read-more" href="{{ .RelPermalink }}">Read more</a>
                 </article>
             </div>
             {{ end }}
